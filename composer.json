@@ -1,6 +1,6 @@
 {
   "name": "bitexpert/addItEasy",
-  "description": "PSR-7 compatible flat file CMS",
+  "description": "PSR-7 compatible flat-file CMS",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
   "authors": [
